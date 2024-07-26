@@ -1,1 +1,1 @@
-<h3 style="color: blue">Just some code php for beginner</h3>
+<h5>Just some code php for beginner</h3>
