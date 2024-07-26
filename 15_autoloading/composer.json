@@ -1,0 +1,15 @@
+{
+    "name": "admin/15_autoloading",
+    "authors": [
+        {
+            "name": "i0101001010i",
+            "email": "trinhnghia270903@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "app\\": ".app"
+        }
+    }
+}
